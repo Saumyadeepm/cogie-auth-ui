@@ -19,6 +19,11 @@ A sleek, responsive, and highly interactive login screen developed with pure HTM
 1. Clone or download this repository.
 2. Ensure you have the background image named `bg_image.jpg` placed in the root folder alongside the HTML file.
 3. Simply open `index.html` in your favorite web browser to view the project.
+<img width="1897" height="862" alt="auth_Login_4" src="https://github.com/user-attachments/assets/0d6f47ff-1e36-4555-8e02-478d6c97f7d5" />
+<img width="1897" height="848" alt="auth_Login_3" src="https://github.com/user-attachments/assets/d82366c4-65b8-4d25-b028-fbe4a6d8d68a" />
+<img width="1882" height="862" alt="auth_Login_2" src="https://github.com/user-attachments/assets/185cf73c-811d-4a57-8901-ed54a60070ff" />
+<img width="1918" height="873" alt="auth_Login_1" src="https://github.com/user-attachments/assets/a27ec3aa-ad11-44e5-94bc-376f5a04963f" />
+
 
 ## 🛠️ Technologies Used
 
