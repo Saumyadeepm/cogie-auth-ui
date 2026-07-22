@@ -1,4 +1,4 @@
-# Premium Login Screen UI
+# Cogie Auth Login Screen UI
 
 🌍 **Live Demo:** [Check it out here!](https://cogieauthui.netlify.app/)
 
