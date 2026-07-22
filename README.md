@@ -1,4 +1,6 @@
-# Cogie Login Screen UI
+# Premium Login Screen UI
+
+🌍 **Live Demo:** [Check it out here!](https://cogieauthui.netlify.app/)
 
 A sleek, responsive, and highly interactive login screen developed with pure HTML, CSS, and Vanilla JavaScript. Designed with modern aesthetics in mind, this project demonstrates how to build a premium user interface without relying on heavy frontend frameworks.
 
@@ -17,10 +19,6 @@ A sleek, responsive, and highly interactive login screen developed with pure HTM
 1. Clone or download this repository.
 2. Ensure you have the background image named `bg_image.jpg` placed in the root folder alongside the HTML file.
 3. Simply open `index.html` in your favorite web browser to view the project.
-<img width="1918" height="873" alt="auth_Login_1" src="https://github.com/user-attachments/assets/dfe53ed6-34b9-4f03-afa3-d3129c887c67" />
-<img width="1882" height="862" alt="auth_Login_2" src="https://github.com/user-attachments/assets/dcd06af7-151a-4f20-983b-76dc39793665" />
-<img width="1897" height="848" alt="auth_Login_3" src="https://github.com/user-attachments/assets/c553b572-aa7d-4cbd-bf77-2f15c88ef856" />
-<img width="1897" height="862" alt="auth_Login_4" src="https://github.com/user-attachments/assets/17294ccf-98fc-4001-8411-b01438d5d9ef" />
 
 ## 🛠️ Technologies Used
 
